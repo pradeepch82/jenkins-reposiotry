@@ -12,8 +12,13 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 public class SecurityConfig extends WebSecurityConfigurerAdapter{
 
 	public SecurityConfig() {
-	System.out.println("SecurityConfig  created...");
+		System.out.println("SecurityConfig  created...");
+		System.out.println("SecurityConfig  created...");
+		System.out.println("SecurityConfig  created...");
+		System.out.println("SecurityConfig  created...");
+		
 	}
+	
 	
 	
 	
